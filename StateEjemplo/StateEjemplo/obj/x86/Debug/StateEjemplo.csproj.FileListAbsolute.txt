@@ -1,0 +1,15 @@
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.FrmPrincipal.resources
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\bin\Debug\StateEjemplo.exe
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\bin\Debug\StateEjemplo.pdb
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.exe
+C:\Users\Laboratorio\Desktop\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\bin\Debug\StateEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\bin\Debug\StateEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.FrmPrincipal.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.Properties.Resources.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.csproj.GenerateResource.Cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\StateEjemplo\StateEjemplo\obj\x86\Debug\StateEjemplo.pdb
