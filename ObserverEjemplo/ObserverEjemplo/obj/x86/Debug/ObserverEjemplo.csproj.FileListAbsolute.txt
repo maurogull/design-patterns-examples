@@ -1,0 +1,15 @@
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\bin\Debug\ObserverEjemplo.exe
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\bin\Debug\ObserverEjemplo.pdb
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.frmPrincipal.resources
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.exe
+C:\Users\Laboratorio\Desktop\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\bin\Debug\ObserverEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\bin\Debug\ObserverEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.frmPrincipal.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.Properties.Resources.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.csproj.GenerateResource.Cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\ObserverEjemplo\ObserverEjemplo\obj\x86\Debug\ObserverEjemplo.pdb
