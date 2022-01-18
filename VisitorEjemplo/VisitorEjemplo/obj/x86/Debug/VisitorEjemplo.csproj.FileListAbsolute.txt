@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\bin\Debug\VisitorEjemplo.exe
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\bin\Debug\VisitorEjemplo.pdb
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\obj\x86\Debug\VisitorEjemplo.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\obj\x86\Debug\VisitorEjemplo.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\obj\x86\Debug\VisitorEjemplo.exe
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\obj\x86\Debug\VisitorEjemplo.pdb
+C:\Users\Laboratorio\Desktop\VisitorEjemplo\VisitorEjemplo\obj\x86\Debug\VisitorEjemplo.FrmPrincipal.resources
