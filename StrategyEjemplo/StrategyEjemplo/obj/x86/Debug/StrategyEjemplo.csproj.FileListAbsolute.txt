@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\bin\Debug\StrategyEjemplo.exe
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\bin\Debug\StrategyEjemplo.pdb
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\obj\x86\Debug\StrategyEjemplo.frmPrincipal.resources
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\obj\x86\Debug\StrategyEjemplo.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\obj\x86\Debug\StrategyEjemplo.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\obj\x86\Debug\StrategyEjemplo.exe
+C:\Users\Laboratorio\Desktop\StrategyEjemplo\StrategyEjemplo\obj\x86\Debug\StrategyEjemplo.pdb
