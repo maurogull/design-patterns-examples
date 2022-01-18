@@ -1,0 +1,25 @@
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.exe
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.pdb
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.Properties.Resources.resources
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.exe
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.pdb
+C:\Users\Laboratorio\Desktop\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.FrmPrincipal.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.FrmPrincipal.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.Properties.Resources.resources
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csproj.GenerateResource.Cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.exe
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.pdb
+C:\Users\Mauro\Dropbox\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csprojResolveAssemblyReference.cache
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.exe
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\bin\Debug\CompositeEjemplo.pdb
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csprojResolveAssemblyReference.cache
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.FrmPrincipal.resources
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.Properties.Resources.resources
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csproj.GenerateResource.Cache
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.csproj.CoreCompileInputs.cache
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.exe
+F:\google drive\facultades\prog3\ejemplos patrones\CompositeEjemplo\CompositeEjemplo\obj\x86\Debug\CompositeEjemplo.pdb
